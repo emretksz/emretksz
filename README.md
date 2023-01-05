@@ -1,5 +1,5 @@
 - 👋 Merhabalar, ben Emre Toksöz.
 -  Bu hesabı iş başvurusu yaptığım yerlere projelerimi göstermek için açtım.
--  C#,Asp.Net-MVC(.Net),Jquery,Ajax ile çalışıyorum.
--  Javacript,Restful ve Mobil programlama üzerinde öğrenimlerim sürüyor.
+-  C#,Asp.Net-MVC,Asp.Net-Core, Javascript,MSSQL,HTML,CSS
+-  Mobil programlama üzerinde öğrenimlerim sürüyor.
 - 📫 Benimle iletişime geçmek için emretkszz@gmail.com adresine mail atabilirsiniz.
